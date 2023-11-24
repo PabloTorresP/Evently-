@@ -43,7 +43,7 @@ The project relies on several external libraries:
 
 ### Importing the Required Libraries
 ```python
-# Imports
+2. Imports
 import pygsheets
 import pandas as pd
 from datetime import date
@@ -54,7 +54,7 @@ import sys
   ```
 ### **Load the CSV File containing concerts**
   ```
-concerts = pd.read_csv('concerts.csv', header=0)
+3. concerts = pd.read_csv('concerts.csv', header=0)
   ```
 #***How to Use the Project**-
 
