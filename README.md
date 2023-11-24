@@ -11,6 +11,7 @@ The dataset presents relevant information about 52 concerts in Madrid, making it
 -   Energy scale
 -   Genre
 -   Price
+
 The dataset has been manually created by the group.
 
 #  **Functionalities**
@@ -60,7 +61,7 @@ concerts = pd.read_csv('concerts.csv', header=0)
 Upon running the program, you will be prompted to log in or create an account. After logging in, you will be presented with the main menu, offering various search options and the concert recommender.
 
 ### Search Options:
-Search By Artist: Allows users to search for concerts by entering their favorite artist's name.
+--> Search By Artist: Allows users to search for concerts by entering their favorite artist's name.
 Search By Maximum Time: Enables users to search for concerts based on a maximum time.
 Search By Genre: Provides the ability to search for concerts by selecting one or more genres.
 Search By Price: Allows users to search for concerts based on a maximum price.
