@@ -32,7 +32,8 @@ The project relies on several external libraries:
 - datetime: Used for working with date and time.
 - heapq: Used for implementing the heap data structure.
 - PySimpleGUI: Used for creating a simple GUI for user interaction.
-#**How to Install the Project**-
+
+#  *How to Install the Projects*-
 
 ### Prerequisites
 1. Install the required libraries using the following command:
