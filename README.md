@@ -56,10 +56,9 @@ import sys
   ```
 3. concerts = pd.read_csv('concerts.csv', header=0)
   ```
-#***How to Use the Project**-
+#  *How to Use the Project*-
 
-
-#**CREDITS**-
+#  *Credits*-
 Pablo Torres
 Javier Arce
 Arturo Velilla
