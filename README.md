@@ -59,11 +59,11 @@ import sys
 #  *How to Use the Project*-
 
 #  *Credits*-
-Pablo Torres
-Javier Arce
-Arturo Velilla
-Sofia Hervas
-Daniel Garcia
-Nacho Ascanio
-Adolfo Gutierrez
+-Pablo Torres
+-Javier Arce
+-Arturo Velilla
+-Sofia Hervas
+-Daniel Garcia
+-Nacho Ascanio
+-Adolfo Gutierrez
 
