@@ -15,6 +15,7 @@ The dataset has been manually created by the group.
 
 #  **Functionalities**-
 Our platform has two main functions:
+
 - Concert Search:
 Users can search for concerts based on various criteria, including artist name, maximum time, genre, and maximum price.
 The search results are displayed, and users have the option to return to the main menu or exit.
@@ -31,6 +32,25 @@ The project relies on several external libraries:
 - datetime: Used for working with date and time.
 - heapq: Used for implementing the heap data structure.
 - PySimpleGUI: Used for creating a simple GUI for user interaction.
+#**How to Use the Project**-
+
+### Prerequisites
+1. Install the required libraries using the following command:
+    ```bash
+    pip install pygsheets pandas PySimpleGUI
+    ```
+
+### Importing the Required Libraries
+```python
+# Imports
+import pygsheets
+import pandas as pd
+from datetime import date
+import datetime as dt
+from heapq import heappush, heapify
+import PySimpleGUI as sg
+import sys
+
 
 #  **CREDITS**-
 Pablo Torres
