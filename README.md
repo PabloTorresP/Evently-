@@ -43,7 +43,7 @@ The project relies on several external libraries:
 
 ### Importing the Required Libraries
 ```python
-2. Imports
+ Imports
 import pygsheets
 import pandas as pd
 from datetime import date
@@ -54,16 +54,22 @@ import sys
   ```
 ### **Load the CSV File containing concerts**
   ```
-3. concerts = pd.read_csv('concerts.csv', header=0)
+concerts = pd.read_csv('concerts.csv', header=0)
   ```
 #  *How to Use the Project*-
 
+#  *Further improvementst*-
+ Expand the data set with more genres of music
+ Expand the data set with more cities
+ Expand the data set with more variables such as ticket availability or artist popularity index.
+ 
 #  *Credits*-
--Pablo Torres
--Javier Arce
--Arturo Velilla
--Sofia Hervas
--Daniel Garcia
--Nacho Ascanio
--Adolfo Gutierrez
+- Pablo Torres
+- Javier Arce
+- Arturo Velilla
+- Sofia Hervas
+- Daniel Garcia
+- Nacho Ascanio
+- Adolfo Gutierrez
+
 
