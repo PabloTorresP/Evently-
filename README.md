@@ -34,7 +34,7 @@ The project relies on several external libraries:
 - heapq: Used for implementing the heap data structure.
 - PySimpleGUI: Used for creating a simple GUI for user interaction.
 
-#  *How to Install the Projects*
+#  *How to Install the Project*
 
 ### Prerequisites
 1. Install the required libraries using the following command:
