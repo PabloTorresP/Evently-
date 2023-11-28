@@ -37,6 +37,8 @@ The project relies on several external libraries:
 #  *How to Install the Project*
 
 ### Prerequisites
+ -Python 3.11 
+ -OS Windows
 1. Install the required libraries using the following command:
  ```bash
   pip install pygsheets pandas PySimpleGUI
