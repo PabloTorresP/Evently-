@@ -43,6 +43,7 @@ The project relies on several external libraries:
    1.Download the zip in the repository and upload it to python 
    
    2. Install the required libraries using the following command:
+      
  ```bash
   pip install pygsheets pandas PySimpleGUI
  ```
