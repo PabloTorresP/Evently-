@@ -12,7 +12,7 @@ The dataset presents relevant information about 52 concerts in Madrid, making it
 -   Genre
 -   Price
 
-The dataset has been manually created by the group.
+The dataset has been created with simulated data.
 
 #  **Functionalities**
 Our platform has two main functions:
